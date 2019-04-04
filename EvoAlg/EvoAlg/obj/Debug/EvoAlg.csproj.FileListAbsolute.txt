@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\EvoAlg\EvoAlg\bin\Debug\EvoAlg.exe.config
+D:\Visual Studio Projects\EvoAlg\EvoAlg\bin\Debug\EvoAlg.exe
+D:\Visual Studio Projects\EvoAlg\EvoAlg\bin\Debug\EvoAlg.pdb
+D:\Visual Studio Projects\EvoAlg\EvoAlg\obj\Debug\EvoAlg.csprojAssemblyReference.cache
+D:\Visual Studio Projects\EvoAlg\EvoAlg\obj\Debug\EvoAlg.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\EvoAlg\EvoAlg\obj\Debug\EvoAlg.exe
+D:\Visual Studio Projects\EvoAlg\EvoAlg\obj\Debug\EvoAlg.pdb
