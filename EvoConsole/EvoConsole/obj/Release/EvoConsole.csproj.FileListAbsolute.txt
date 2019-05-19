@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\EvoConsole\EvoConsole\bin\Release\EvoConsole.exe.config
+D:\Visual Studio Projects\EvoConsole\EvoConsole\bin\Release\EvoConsole.exe
+D:\Visual Studio Projects\EvoConsole\EvoConsole\bin\Release\EvoConsole.pdb
+D:\Visual Studio Projects\EvoConsole\EvoConsole\obj\Release\EvoConsole.csprojAssemblyReference.cache
+D:\Visual Studio Projects\EvoConsole\EvoConsole\obj\Release\EvoConsole.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\EvoConsole\EvoConsole\obj\Release\EvoConsole.exe
+D:\Visual Studio Projects\EvoConsole\EvoConsole\obj\Release\EvoConsole.pdb
