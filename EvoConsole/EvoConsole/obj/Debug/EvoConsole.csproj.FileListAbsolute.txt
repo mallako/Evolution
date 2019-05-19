@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\EvoConsole\EvoConsole\bin\Debug\EvoConsole.exe.config
+C:\Users\user\source\repos\EvoConsole\EvoConsole\bin\Debug\EvoConsole.exe
+C:\Users\user\source\repos\EvoConsole\EvoConsole\bin\Debug\EvoConsole.pdb
+C:\Users\user\source\repos\EvoConsole\EvoConsole\obj\Debug\EvoConsole.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EvoConsole\EvoConsole\obj\Debug\EvoConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EvoConsole\EvoConsole\obj\Debug\EvoConsole.exe
+C:\Users\user\source\repos\EvoConsole\EvoConsole\obj\Debug\EvoConsole.pdb
+D:\Visual Studio Projects\EvoConsole\EvoConsole\bin\Debug\EvoConsole.exe.config
+D:\Visual Studio Projects\EvoConsole\EvoConsole\bin\Debug\EvoConsole.exe
+D:\Visual Studio Projects\EvoConsole\EvoConsole\bin\Debug\EvoConsole.pdb
+D:\Visual Studio Projects\EvoConsole\EvoConsole\obj\Debug\EvoConsole.csprojAssemblyReference.cache
+D:\Visual Studio Projects\EvoConsole\EvoConsole\obj\Debug\EvoConsole.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\EvoConsole\EvoConsole\obj\Debug\EvoConsole.exe
+D:\Visual Studio Projects\EvoConsole\EvoConsole\obj\Debug\EvoConsole.pdb
